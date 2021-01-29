@@ -1,0 +1,2 @@
+# resources
+notes from workshops
