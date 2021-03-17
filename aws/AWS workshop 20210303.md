@@ -66,3 +66,9 @@ Can do most of the job, but does not have access to locks, and can't access secu
 ## How do I set up SSO?
 
 ## How do I enforce mandatory MFA?
+
+# Next steps
+
+1. Link users to accounts
+2. Add permissions to accounts
+3. Generate roles
